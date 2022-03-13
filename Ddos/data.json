@@ -1,0 +1,15 @@
+{
+  "http": [
+    
+    {
+      "address": "https://mos-kino.ru/"
+    }
+  ],
+  "sockets": [
+    {
+      "ip":"217.12.104.100",
+      "port": 80,
+      "type":"tcp"
+    }
+  ]
+}
